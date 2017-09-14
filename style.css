@@ -1,0 +1,29 @@
+body{
+    background-color: #63C1DB;
+}
+
+.page-title{
+    position: absolute;
+    font-family: 'Raleway', sans-serif;
+    font-size: 100px;
+    font-weight: 100;
+    top: 50%;
+    right: 0;
+    left: 0;
+    margin: 0 auto;
+    text-align: center;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+
+.firstLetter{
+    background-color: white;
+    color: #63C1DB;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.navbar-default{
+    background-color: #FFFFFF;
+    border-bottom: aqua 3px solid;
+}
