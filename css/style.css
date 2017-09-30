@@ -23,7 +23,21 @@ body{
     padding-right: 10px;
 }
 
-.navbar-default{
-    background-color: #FFFFFF;
-    border-bottom: aqua 3px solid;
+.mynavul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+    overflow: hidden;
+    background-color: #1b6d85;
+}
+.mynavul li{
+    float: left;
+}
+.mynavul li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
